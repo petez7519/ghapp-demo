@@ -5,4 +5,4 @@ jobs:
       - image: circleci/python:3.9
     steps:
       - checkout
-      - run: echo "Building with config1"
+      - run: echo "Building with confi.....g1"
