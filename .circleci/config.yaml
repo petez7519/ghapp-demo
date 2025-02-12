@@ -5,4 +5,4 @@ jobs:
       - image: circleci/python:3.9
     steps:
       - checkout
-      - run: echo "Building with oAurh, maybe"
+      - run: echo "Building with oAuth maybe"
