@@ -5,4 +5,4 @@ jobs:
       - image: circleci/python:3.9
     steps:
       - checkout
-      - run: echo "Testing with config2"
+      - run: echo "Building with oAuth maybe -2-26"
